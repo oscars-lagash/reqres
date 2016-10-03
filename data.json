@@ -121,4 +121,67 @@
 		"year": 2011,
 		"pantone_value": "18-2120"
 	}]
+	
+	{
+  "comic": [
+    {
+      "id": "1",
+      "urlImagen": "http://vignette3.wikia.nocookie.net/laligadelajusticiailimitada/images/b/b1/2539287_640px.jpg/revision/latest?cb=20111128003519&path-prefix=es",
+      "nombre": "Mujer maravilla",
+      "tipo": "Liga de la justicia",
+      "casa": "Marvel",
+      "descripcion": "La Mujer Maravilla aparece junto a su madre viendo como la Tierra esta en problemas, a Diana le parese mal y quiere ayudar pero su madre no se lo permite, ya que tiene que preocuparse de su tierra. Despues Diana saca su traje y se escapa cantidad = 10",
+      "cantidd": "10",
+      "costo": "25000"
+    },
+    {
+      "id": "2",
+      "urlImagen": "",
+      "casa": "Marvel",
+      "descripcion": "Batman, en su vida secreta es Bruno Diaz (Bruce Wayne), se une a la liga de la justicia para convatir una amenaza alienigena. Batman es el cerebro detra de todas la acciones de la liga de la justicia. A pesar de ser un humano, es quien determina los caminos y la moralidad que deben seguir los miembros de la liga y tambien es quien aporta con tecnologias para la liga y el abastecimiento economico.",
+      "cantidd": "15",
+      "costo": "30000"
+    },
+    {
+      "id": "3",
+      "urlImagen": "https://s-media-cache-ak0.pinimg.com/236x/2f/ca/51/2fca51b01d3d581d537b39cf60b11208.jpg",
+      "nombre": "Flash",
+      "tipo": "Liga de la justicia",
+      "casa": "Marvel",
+      "descripcion": "Wally West  Flash  ( el hombre mas rápido del mundo ) es un superheroe muy popular de la ciudad central , en su vida civil Wally trabajo como cientifico forense del Departamento de Policia de Central City , Flash se une a la liga de la Justicia por la amenaza alienigena, Wally es un personaje muy divertido que gusta de hacer bromas, de la buena comida y de las mujeres bellas , es quien lleva alegría al grupo y cuenta con su carisma y su personalidad extrovertida, por lo que se le considera \"el corazón de la liga de la justicia.",
+	  "cantidd": "20",
+      "costo": "35000"
+    },
+    {
+      "id": "4",
+      "urlImagen": "http://vignette2.wikia.nocookie.net/laligadelajusticiailimitada/images/7/72/Superman.jpg/revision/latest/scale-to-width-down/304?cb=20111128002408&path-prefix=es",
+      "nombre": "Superman",
+      "tipo": "Liga de la justicia",
+      "casa": "Marvel",
+      "descripcion": "Superman, quien en su vida secreta es Clark Kent, se une a la liga de la justicia para combatir una amenaza extraterrestre. Aparece como la figura central y vocero principal de la liga. Superman es quien da la cara ante el mundo por todo lo que ellos realiza. Clar Kent, es el ultimo sobreviviente del planeta Kriptón y es bien recibido por el matrimonio Kent.",
+      "cantidd": "25",
+	  "costo": "35000"
+    },
+    {
+      "id": "5",
+      "urlImagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRZS7kClbYvhLfE-5JdRZdsVBsW49E6IkmFuSLBKjMefgCDgay2",
+      "nombre": "Linterna verde",
+      "tipo": "Liga de la justicia",
+      "casa": "Marvel",
+      "descripcion": "John Stewart, se une a la liga para combatir la amenaza alienijena. John, armado con su anillo que crea cualquer cosa que él piese, une sus fuerzas en la liga.Él une sus fuerzas en la liga. Es un ex militar que fue seleccionado por los guardianes espaciales debido a sus características y ún buen corazón. Linterna Verde aparese enamorado de la Chica Halcon.",
+      "cantidd": "15",
+	  "costo": "38000"
+    },
+    {
+      "id": "6",
+      "urlImagen": "http://vignette1.wikia.nocookie.net/laligadelajusticiailimitada/images/6/65/Martian-manhunter2.jpg/revision/latest/scale-to-width-down/243?cb=20111128015222&path-prefix=es",
+      "nombre": "Detectve marciano",
+      "tipo": "Liga de la justicia",
+      "casa": "Marvel",
+      "descripcion": "J'onn J'onz es el ser que se unió a la liga para provenir un ataque inminente de unas fuerzas que acabaron con toda la vida en Marte. J'onn pudo salvarse y ser el unico sobreviviente de su planeta. Fue capturado por los seres humano y mediante telepatía llama a los superheroes para salvar a su planeta.",
+      "cantidd": "22",
+	  "costo": "38000"
+    }
+  ]
+}
 }
